@@ -1,0 +1,9 @@
+## IGNORE FILES ##
+
+
+*.dSYM
+*.vscode
+*.output
+*.txt
+
+bin/
