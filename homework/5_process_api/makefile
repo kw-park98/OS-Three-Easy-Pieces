@@ -37,4 +37,4 @@ remove:
 	rm -rf bin/*.dSYM
 
 clean:
-	rm -rf bin
+	rm -rf bin && rm *.output
