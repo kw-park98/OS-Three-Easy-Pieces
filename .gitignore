@@ -5,6 +5,7 @@
 *.vscode
 *.output
 *.txt
+*.sh
 
 bin/
 .DS_STORE/
